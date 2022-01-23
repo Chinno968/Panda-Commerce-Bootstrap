@@ -1,0 +1,15 @@
+.info-bg{
+    background-color:#fceae8;
+}
+
+.catagories img{
+    width: 100px;
+}
+
+.Butt{
+    background-color: #ff4690;
+    color: white;
+    border-radius: 9px;
+    padding: 9px 25px;
+    border: none;
+}
